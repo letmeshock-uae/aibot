@@ -61,4 +61,8 @@ Astryx — показательный, но не единственный спо
 - «У нас уже есть Storybook, но нет agent-ready CLI как у Astryx — с чего начать, чтобы агент мог опираться на Storybook напрямую через MCP?»
 - «Объясни простыми словами, чем Figma Code Connect отличается от простого совпадения имён компонентов в Figma и в коде»
 
+## Мини-задание
+
+Взять реальный список компонентов своей дизайн-системы (или её части) и попросить агента сгенерировать черновик `AGENTS.md` для неё — с индексом компонентов, конвенциями именования и явными «нельзя». Прочитать результат критично: есть ли в нём правила, с которыми лично не согласен, и почему.
+
 Sources: [Astryx Design System](https://astryx.atmeta.com/), [Working with AI — Astryx docs](https://astryx.atmeta.com/docs/working-with-ai), [Meta's Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read — MarkTechPost](https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/)
